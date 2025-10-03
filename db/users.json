@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "admin@tec.cr",
+    "password": "adminpassword",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "editor@tec.cr",
+    "password": "editorpassword",
+    "role": "editor"
+  }
+]
